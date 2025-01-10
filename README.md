@@ -14,6 +14,21 @@ A **simple command-line tool** written in Python to help you manage your to-do t
 
 ---
 
+
+## Dependencies
+
+The tool uses the following Python modules:
+
+- **argparse**: For handling command-line arguments.
+
+- **json**: For saving and loading tasks.
+
+- **os**: For file management operations.
+
+Make sure these modules are available in your Python environment (they are included in the Python standard library).
+
+
+
 ## Requirements
 
 - **Python 3.x**: Ensure Python is installed on your system. [Download Python here](https://www.python.org/).
