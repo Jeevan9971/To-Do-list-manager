@@ -28,6 +28,8 @@ The tool uses the following Python modules:
 Make sure these modules are available in your Python environment (they are included in the Python standard library).
 
 
+---
+
 
 ## Requirements
 
